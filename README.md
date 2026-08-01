@@ -8,7 +8,7 @@
 
 > **Note:** The deployed version uses local JSON file storage. Since most free hosting providers use ephemeral file systems, data may reset when the application restarts.
 
-> **Note:** The deployed version uses local JSON file storage. Since most free hosting providers use ephemeral file systems, data may reset when the application restarts.
+
 
 ## Project Overview
 The Smart Expense Tracker API is a RESTful web service built with Node.js and Express to help users manage their personal expenses. Designed as a robust backend assignment, it leverages local JSON file storage to provide complete CRUD operations and insights into expense data without requiring a complex database setup.
@@ -101,7 +101,7 @@ npm test
 
 ## Swagger Documentation
 
-- **Local:** <http://localhost:3000/api-docs>
+- **Local:** `http://localhost:3000/api-docs`
 
 - **Live:** <https://smart-expense-tracker-api-zowm.onrender.com/api-docs>
 
