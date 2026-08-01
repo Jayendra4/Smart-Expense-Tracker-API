@@ -2,9 +2,11 @@
 
 ## Live Demo
 
-- **Base URL:** `https://smart-expense-tracker-api-zowm.onrender.com`
+- 🌐 **Base URL:** <https://smart-expense-tracker-api-zowm.onrender.com>
 
-- **Swagger UI:** `https://smart-expense-tracker-api-zowm.onrender.com/api-docs`
+- 📘 **Swagger UI:** <https://smart-expense-tracker-api-zowm.onrender.com/api-docs>
+
+> **Note:** The deployed version uses local JSON file storage. Since most free hosting providers use ephemeral file systems, data may reset when the application restarts.
 
 > **Note:** The deployed version uses local JSON file storage. Since most free hosting providers use ephemeral file systems, data may reset when the application restarts.
 
@@ -98,9 +100,10 @@ npm test
 ```
 
 ## Swagger Documentation
-- **Local:** `http://localhost:3000/api-docs`
 
-- **Live:** `https://smart-expense-tracker-api-zowm.onrender.com/api-docs`
+- **Local:** <http://localhost:3000/api-docs>
+
+- **Live:** <https://smart-expense-tracker-api-zowm.onrender.com/api-docs>
 
 ## API Reference
 
