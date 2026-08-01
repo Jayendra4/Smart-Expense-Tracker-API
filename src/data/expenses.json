@@ -1,0 +1,30 @@
+[
+  {
+    "id": "d2a4b059-6e9b-4f23-818d-0e21c09d0d15",
+    "title": "Fuel",
+    "amount": 1650,
+    "category": "Transportation",
+    "date": "2026-08-02T08:15:00.000Z"
+  },
+  {
+    "id": "6d046f2e-75a7-4bb0-b4a6-dcc630f99cf7",
+    "title": "Internet",
+    "amount": 999,
+    "category": "Utilities",
+    "date": "2026-08-03T09:00:00.000Z"
+  },
+  {
+    "id": "fbdf067d-ef15-4d36-9a9f-e07e9d6f5497",
+    "title": "Dinner",
+    "amount": 1249.5,
+    "category": "Food",
+    "date": "2026-08-03T20:15:00.000Z"
+  },
+  {
+    "id": "4221cc06-c4fe-4661-a17d-b3bcdcfc030c",
+    "title": "Netflix",
+    "amount": 649,
+    "category": "Entertainment",
+    "date": "2026-08-04T18:30:00.000Z"
+  }
+]
